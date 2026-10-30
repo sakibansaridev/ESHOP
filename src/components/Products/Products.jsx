@@ -48,6 +48,7 @@ const productsData2 = [
         price: "120",
         aosDelay: "0",
     },
+
     {
         id: 2,
         img: Img6,
@@ -55,6 +56,7 @@ const productsData2 = [
         price: "420",
         aosDelay: "200",
     },
+
     {
         id: 3,
         img: Img1,
@@ -62,6 +64,7 @@ const productsData2 = [
         price: "320",
         aosDelay: "400",
     },
+
     {
         id: 4,
         img: Img2,
