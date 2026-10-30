@@ -45,6 +45,7 @@ function Services() {
                                 {data.title}
                             </h1>
                             <h1 className='text-gray-400 text-sm '>
+
                                 {data.description}
                             </h1>
                         </div>
