@@ -32,7 +32,7 @@ const Blog = () => {
             <Heading title='Recent News' subtitle='Explore Our Blogs' />
 
             {/* blog section */}
-            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 gap-y-8 sm:gap-4 md:gap-7'>
+            <div className='grid grid-cols-1 sm:grid-cols-3 md:grid-Scols-3 gap-6 gap-y-8 sm:gap-4 md:gap-7'>
                 {/* blog card */}
                 {
                     BlogData.map((data, index) => (

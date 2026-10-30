@@ -8,6 +8,8 @@ import headphones from '../../assets/headphone.png'
 import watches from '../../assets/smartwatch2.png'
 import Products from '../Products/Products'
 import Blog from '../Blog/Blog'
+import Partner from '../partner/partner'
+import Footer from '../../components/Footer/Footer'
 
 
 const BannerData = {
@@ -47,6 +49,8 @@ function Home() {
             <Products />
             <Banner data={BannerData2} />
             <Blog />
+            <Partner />
+            <Footer />
         </div>
     )
 }
